@@ -2,7 +2,7 @@
 
 Class imbalance is pervasive in certain classification domains. That is, the class distribution is not uniform, in some cases in an extreme fashion. This is a common problem in medicine and health care where there is a wide dispersion of patients suffering from different disease severities; it is inherent in fraud and fault detection where the anomaly is rare; and in many other fields.
 
-They were produced during the development of the following paper. Please cite the paper if you use them.
+These models were produced during the development of the following paper. Please cite the paper if you use them.
 
 * Cruz, R., Fernandes, K., Cardoso, J. S., & Costa, J. F. P. (2016, July). Tackling class imbalance with ranking. In Neural Networks (IJCNN), 2016 International Joint Conference on (pp. 2182-2187). IEEE. [paper](http://ieeexplore.ieee.org/abstract/document/7727469/)
 
