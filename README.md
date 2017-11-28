@@ -4,7 +4,7 @@ Class imbalance is pervasive in certain classification domains. That is, the cla
 
 These models were produced during the development of the following paper. Please cite the paper if you use them.
 
-* Cruz, R., Fernandes, K., Cardoso, J. S., & Costa, J. F. P. (2016, July). Tackling class imbalance with ranking. In Neural Networks (IJCNN), 2016 International Joint Conference on (pp. 2182-2187). IEEE. [paper](http://ieeexplore.ieee.org/abstract/document/7727469/)
+* Cruz, R., Fernandes, K., Cardoso, J. S., & Costa, J. F. P. (2016, July). Tackling class imbalance with ranking. In Neural Networks (IJCNN), 2016 International Joint Conference on (pp. 2182-2187). IEEE. [[paper]](http://ieeexplore.ieee.org/abstract/document/7727469/)
 
 These models can be used for traditional ranking problems or be used for classification by using the `Threshold` wrapper. They were only tested in some contexts, they need to be tested more throughly --- let [me know](mailto:ricardo.pdm.cruz@gmail.com) if you have problems.
 
